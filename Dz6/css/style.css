@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+list {
+    font-size: 25px;
+    color: #2d0073
+}
+input {
+    font-size: 25px;
+    background-color: #f1eec3;
+    color: #035c17
+}
+button {
+    font-size: 25px;
+}
